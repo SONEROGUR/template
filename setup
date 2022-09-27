@@ -27,8 +27,10 @@ echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 yes Y | pkg update
 yes Y | pkg upgrade
-yes Y | pip install --upgrade pip setuptools
-yes Y | pkg install python unrar tqdm requests
+yes Y | pip install --upgrade pip
+yes Y | pip install --upgrade setuptools
+yes Y | pkg install python unrar
+yes Y | pkg tqdm requests
 dloader_()
 {
 	curl $dloader --output downloader.py

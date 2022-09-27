@@ -5,7 +5,7 @@ version_name='5.0.0-27092022'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
-yes Y | termux-setup-storage >> /dev/null
+yes Y | termux-setup-storage
 check_sdcard()
 {
     if [ -r "/sdcard" ]; then

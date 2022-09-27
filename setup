@@ -4,7 +4,7 @@
 version_name='5.0.0-27092022'
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
-yes Y | termux-setup-storage >> /dev/null
+bash -c "yes || true" | termux-setup-storage >> /dev/null
 check_sdcard()
 {
     if [ -r "/sdcard" ]; then
@@ -24,12 +24,12 @@ dloader_md5="ac27ddfe55eff4215b7c10534ffe1331"
 caller_md5="ca4a8f0cb962701415c2091b5c22899c"
 echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
-yes Y | pkg update
-yes Y | pkg upgrade
-yes Y | pip install --upgrade pip
-yes Y | pip install --upgrade setuptools
-yes Y | pkg install python unrar
-yes Y | pkg tqdm requests
+bash -c "yes || true" | pkg update
+bash -c "yes || true" | pkg upgrade
+bash -c "yes || true" | pip install --upgrade pip
+bash -c "yes || true" | pip install --upgrade setuptools
+bash -c "yes || true" | pkg install python unrar
+bash -c "yes || true" | pkg tqdm requests
 dloader_()
 {
 	curl $dloader --output downloader.py

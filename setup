@@ -2,7 +2,6 @@
 # t.me/belesing
 
 version_name='5.0.0-27092022'
-clear
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
 yes Y | termux-setup-storage >> /dev/null

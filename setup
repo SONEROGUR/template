@@ -34,7 +34,7 @@ setup_main()
 	curl $tool_file --output tmp
 	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $tool_md5 ]
 	then
-		mv tmp $PREFIX/bin/tool && +x $PREFIX/bin/tool
+		mv tmp $PREFIX/bin/tool && chmod +x $PREFIX/bin/tool
 	else
 		sleep 1
 		setup_main

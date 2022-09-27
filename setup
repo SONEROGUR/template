@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesing
 
-version_name="4.5.0-27092022"
+version_name='5.0.0-27092022'
 clear
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
@@ -19,22 +19,16 @@ check_sdcard()
 check_sdcard
 mkdir -p /sdcard/Download
 cd ~
-dloader="https://swf.tvoip.turkcell.com.tr/v1/AUTH_331822854e79423b8364162b1c6ce191/fb10b0941a6265a7092acd90cf04fba4/70529045ddd1f1a9701a00238028de85.bin"
-helper="https://swf.tvoip.turkcell.com.tr/v1/AUTH_331822854e79423b8364162b1c6ce191/fb10b0941a6265a7092acd90cf04fba4/ffca8ba696bac4c951b03a59cda17090.bin"
+dloader="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/534cf5b515bd71f8426e6177910eb6b1.bin"
 caller="https://swf.tvoip.turkcell.com.tr/v1/AUTH_331822854e79423b8364162b1c6ce191/fb10b0941a6265a7092acd90cf04fba4/f13e152c011c8970c8bb6d16eb0d883a.bin"
-dloader_md5="cb8efe9b683ccce266cf400909f87afc"
-helper_md5="6f97a4d12d1238a7ef9b63426464b87b"
+dloader_md5="2325ba4204ce9e3ae6b9192da940203c"
 caller_md5="ca4a8f0cb962701415c2091b5c22899c"
 echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 yes Y | pkg update
 yes Y | pkg upgrade
-yes Y | pkg install python
-yes Y | pkg install unrar
-yes Y | pip install --upgrade pip
-yes Y | pip install --upgrade setuptools
-yes Y | pip install tqdm
-yes Y | pip install requests
+yes Y | pip install --upgrade pip setuptools
+yes Y | pkg install python unrar tqdm requests
 dloader_()
 {
 	curl $dloader --output downloader.py
@@ -44,17 +38,6 @@ dloader_()
 	else
 		sleep 1
 		dloader_
-	fi
-}
-helper_()
-{
-	curl $helper --output helpers.py
-	if [ $(md5sum ~/helpers.py | cut -d " " -f 1) = $helper_md5 ]
-	then
-		mv helpers.py Helpers.py
-	else
-		sleep 1
-		helper_
 	fi
 }
 caller_()
@@ -69,6 +52,5 @@ caller_()
 	fi
 }
 dloader_
-helper_
 caller_
 tool

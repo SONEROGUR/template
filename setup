@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesingch
 
-version_name='5.0.0-beta-27092022'
+version_name='5.0.0-beta_2-27092022'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3

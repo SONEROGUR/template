@@ -17,11 +17,11 @@ check_sdcard()
     fi
 }
 check_sdcard
-yes 2>>dev/null | pkg update
-yes 2>>dev/null | pkg upgrade
-yes 2>>dev/null | pkg install python unrar
-yes 2>>dev/null | pip install --upgrade pip setuptool
-yes 2>>dev/null | pip install tqdm requests
+yes 2>>/dev/null | pkg update
+yes 2>>/dev/null | pkg upgrade
+yes 2>>/dev/null | pkg install python unrar
+yes 2>>/dev/null | pip install --upgrade pip setuptool
+yes 2>>/dev/null | pip install tqdm requests
 mkdir -p /sdcard/Download
 cd ~
 tool_file="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/afb0eae16b87b621b22a8d94a3d0eee8.bin"

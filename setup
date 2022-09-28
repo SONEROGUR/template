@@ -19,16 +19,10 @@ check_sdcard()
 check_sdcard
 mkdir -p /sdcard/Download
 cd ~
-tool_file="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/507b88890911cddcd7341f1b3359a325.bin"
-tool_md5="f52df446d39447582d9296be3208c492"
+tool_file="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/afb0eae16b87b621b22a8d94a3d0eee8.bin"
+tool_md5="3e6e0ec5cd1fe0d7a4a3db0f36ee18e9"
 echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
-yes 2>/dev/null | pkg update
-yes 2>/dev/null | pkg upgrade
-yes 2>/dev/null | pkg install python unrar
-yes 2>/dev/null | pip install --upgrade pip
-yes 2>/dev/null | pip install --upgrade setuptools
-yes 2>/dev/null | pip install tqdm requests
 setup_main()
 {
 	curl $tool_file --output tmp

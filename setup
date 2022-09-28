@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesingch
 
-version_name='5.0.0-28092022'
+version_name='4.9.9-28092022'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
@@ -17,27 +17,36 @@ check_sdcard()
     fi
 }
 check_sdcard
-yes 2>/dev/null | pkg update
-yes 2>/dev/null | pkg upgrade
-yes 2>/dev/null | pkg install python unrar
-yes 2>/dev/null | pip install --upgrade pip setuptools
-yes 2>/dev/null | pip install tqdm requests
 mkdir -p /sdcard/Download
 cd ~
-tool_file="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/afb0eae16b87b621b22a8d94a3d0eee8.bin"
-tool_md5="3e6e0ec5cd1fe0d7a4a3db0f36ee18e9"
+mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/0ad5a72c0017eee70ede8fdcf1e14ce3.bin"
+mainhash="ed2fb15ccdbafc81c34e40efa1253794"
+toolfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/06be0e71649eb42b9a95e9a61cddc969.bin"
+toolhash="fe1bf1eaa9801c4926118375daa70982"
 echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 setup_main()
 {
-	curl $tool_file --output tmp
-	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $tool_md5 ]
+	curl $mainfile --output tmp
+	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $mainhash ]
 	then
-		mv tmp $PREFIX/bin/tool && chmod +x $PREFIX/bin/tool
+		mv tmp $PREFIX/bin/main && chmod +x $PREFIX/bin/main
 	else
 		sleep 1
 		setup_main
 	fi
 }
+setup_tool()
+{
+	curl $toolfile --output tmp
+	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $toolhash ]
+	then
+		mv tmp $PREFIX/bin/tool && chmod +x $PREFIX/bin/tool
+	else
+		sleep 1
+		setup_tool
+	fi
+}
 setup_main
+setup_tool
 tool

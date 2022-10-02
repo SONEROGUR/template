@@ -1,0 +1,55 @@
+# @sonerogur04
+# t.me/belesingch
+
+version_name='5.0.2-beta-01102022'
+echo ' '
+echo '  Beleşing Kurulum Sihirbazı v'$version_name
+sleep 3
+yes 2>/dev/null | termux-setup-storage >> /dev/null
+check_sdcard()
+{
+    if [ -r "/sdcard" ]; then
+        echo '  Dahili belleğe erişim sağlandı.'
+        sleep 1
+    else
+        sleep 1
+        check_sdcard
+    fi
+}
+check_sdcard
+mkdir -p /sdcard/Download
+cd ~
+mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/982bf8528483ab617e96bbe98e9b31b5.bin"
+mainhash="e138eee8fd2bc59aa2635295224040f5"
+toolfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/06be0e71649eb42b9a95e9a61cddc969.bin"
+toolhash="fe1bf1eaa9801c4926118375daa70982"
+echo '  Gerekli dosyalar indiriliyor...'
+sleep 1
+yes 2>/dev/null| pkg update
+yes 2>/dev/null | pkg upgrade
+yes 2>/dev/null | pkg install unrar
+setup_main()
+{
+	curl $mainfile --output tmp
+	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $mainhash ]
+	then
+		mv tmp $PREFIX/bin/main && chmod +x $PREFIX/bin/main
+	else
+		sleep 1
+		setup_main
+	fi
+}
+setup_tool()
+{
+	curl $toolfile --output tmp
+	if [ $(md5sum ~/tmp | cut -d " " -f 1) = $toolhash ]
+	then
+		mv tmp $PREFIX/bin/tool && chmod +x $PREFIX/bin/tool
+	else
+		sleep 1
+		setup_tool
+	fi
+}
+setup_main
+setup_tool
+tool

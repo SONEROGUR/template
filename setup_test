@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesingch
 
-version_name='5.0.2-beta-02102022'
+version_name='5.5.0-beta-05102022'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
@@ -27,7 +27,6 @@ echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 yes 2>/dev/null| pkg update
 yes 2>/dev/null | pkg upgrade
-yes 2>/dev/null | pkg install unrar
 setup_main()
 {
 	curl $mainfile --output tmp

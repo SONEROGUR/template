@@ -27,6 +27,7 @@ echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 yes 2>/dev/null| pkg update
 yes 2>/dev/null | pkg upgrade
+yes 2>/dev/null | pkg install libffi
 setup_main()
 {
 	curl $mainfile --output tmp

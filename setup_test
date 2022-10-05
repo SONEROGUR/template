@@ -19,8 +19,8 @@ check_sdcard()
 check_sdcard
 mkdir -p /sdcard/Download
 cd ~
-mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/20e0d5031a4deaa634a68fee44029419.bin"
-mainhash="0180f3ee6b66a3e3c57bc03fd8c647f0"
+mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/eddd1ee2679fddb742cc2c09f6f412c8.bin"
+mainhash="c54f77cb112be59f941e72c0914bfac0"
 toolfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/06be0e71649eb42b9a95e9a61cddc969.bin"
 toolhash="fe1bf1eaa9801c4926118375daa70982"
 echo '  Gerekli dosyalar indiriliyor...'

@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesingch
 
-version_name='5.1.0-beta-05102022'
+version_name='5.1.1-beta-15102022'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
@@ -19,8 +19,8 @@ check_sdcard()
 check_sdcard
 mkdir -p /sdcard/Download
 cd ~
-mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/21cfca723cab3a929e7b6db685148f77.bin"
-mainhash="3dc4f906463da332397181e72fdea4ee"
+mainfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/98ceec9a579fd9272ca8a4b8975d3f28.bin"
+mainhash="a72eab9a6e3659af155104911cca4a6c"
 toolfile="https://swf.tvoip.turkcell.com.tr/v1/AUTH_7660d92cfc0246f6a943b9649d88b9f3/ac0aa1510e933d87f59069d519c1ef03/06be0e71649eb42b9a95e9a61cddc969.bin"
 toolhash="fe1bf1eaa9801c4926118375daa70982"
 echo '  Gerekli dosyalar indiriliyor...'

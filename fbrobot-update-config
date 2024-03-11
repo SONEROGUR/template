@@ -1,4 +1,5 @@
 {
-  "version": 0.75,
-  "url": "aFEwcl+tjt1KWrDlBlcP/R2BNmFf9JNeLtvdvU9Wy+ngvx/9pBm/Qd65Mfcwp8ku+g++dznaNhzxk67pZqo58nL/AbNxMb9/poF5HodNFKT4PorfXj/lHHBrqRmXjqTmqWXUU4g4omdoZVpbWnY+v3gktky0EkLpsVxvBpRid9RzhtbN6dwhpBIzAbf88LWZ*cfBNF5kimNHSoVJ5bF+b7w==*hmTBPUCKdYCfunoVga39cA==*7tJM08wlh/+MvsaBAQJXMQ=="
+  "version": 0.77,
+  "url": "rkPAQdjaHoFS04Pnmy+xm59ZwxTX2eFZHDKWLe3J/CLFDGBVtI24gJOwfLM8y0tmbUGT6Rm+gjVcPXJSmBBmCbuCZl2T9wApQgV9ikqZi8KS2XnGi8s+DzLeFSNgZIlL3ZWT1mFJk7nIl/9PN/jRa5Z6ALrdkgZW+jWuWSIv4GjNfWi0KWrkfmijML5680bB*p/d5CcRdaa5WvCD7G4qs6A==*W16POPPKypvYtzci3AL3OQ==*o43ZAyWxyq0KQeRGj6xygQ==",
+  "changelog": "Değişiklik Listesi (v0.75):\n1. Güncelleme için indirme çubuğu eklendi.\n2. Artık güncellemelerden sonra bir değişiklik listesi görüntülenebilir.\n3. Hata düzeltmeleri ve iyileştirmeler."
 }

@@ -1,5 +1,5 @@
 {
   "version": 0.82,
   "url": "u67WSi0LmvVVPv3j/CcIsjbwJfgztxUBO3ohRzfA/nHyzxfTH95k2b261oGcgVoFbfeUA39ueN69jhIu/EEMYuMP7zGv4HOPln0ANwAFZfbKvCnssulLX9g/Yr0TibhiEqcGLNP9iCqOyqit6BwxPNgQUABDJT5rHuPT/acilFTYB4p/Y0EI2pTZGNU/7Roc*og6UNk23HJcSRmub4dBUiQ==*5bh7jEaGTJeBIP2okFC/TQ==*4mt68xqNQAxxlxqyDUslEQ==",
-  "changelog": "Değişiklik Listesi (v0.82):\n1. Bazı içeriklerde posterin alınamaması sorununu çözüldü.\n2. Hiçbir veri alınamayan durumlar için düzetlme yapıldı.\n3. Sekme sayısı artıtıldı.\n4. Türkçe özel karakterler için düzeltme yapıldı. \n4. Varsayılan editör punaı sıfır yerine 45 olarak ayarlandı.\n5. Küçük düzeltmeler."
+  "changelog": "Değişiklik Listesi (v0.82):\n1. Bazı içeriklerde posterin alınamaması sorununu çözüldü.\n2. Hiçbir veri alınamayan durumlar için düzetlme yapıldı.\n3. Sekme sayısı artırıldı.\n4. Türkçe özel karakterler için düzeltme yapıldı. \n4. Varsayılan editör punaı sıfır yerine 45 olarak ayarlandı.\n5. Küçük düzeltmeler."
 }

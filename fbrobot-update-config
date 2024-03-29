@@ -1,5 +1,5 @@
 {
-  "version": 0.81,
-  "url": "oY9A6p9DkR8n6MOmpbuae7nhGgiL12oJ5La1DRJVQvoEAFy8cajY3gREu+p0gleviX5YhLTSbq5COlv0E20nWBPWFN2l8lcNWdPFXvkuIDJg00UOuODSFFDLKranvsN6etc7zaLZWLfQzJpQbZWsQCARtZQmsn2ViwTM5w7R2h2GtVcvmdsS+OO2aTRq1/QJ*4R+0vKFEex3mXpDm4lhXKA==*hCVNh064V5Q2mNwHgQMLzw==*9MhtKhBa0LXCbMO8AvSPsg==",
-  "changelog": "Değişiklik Listesi (v0.81):\n1. Hata düzeltmeleri ve iyileştirmeler."
+  "version": 0.82,
+  "url": "u67WSi0LmvVVPv3j/CcIsjbwJfgztxUBO3ohRzfA/nHyzxfTH95k2b261oGcgVoFbfeUA39ueN69jhIu/EEMYuMP7zGv4HOPln0ANwAFZfbKvCnssulLX9g/Yr0TibhiEqcGLNP9iCqOyqit6BwxPNgQUABDJT5rHuPT/acilFTYB4p/Y0EI2pTZGNU/7Roc*og6UNk23HJcSRmub4dBUiQ==*5bh7jEaGTJeBIP2okFC/TQ==*4mt68xqNQAxxlxqyDUslEQ==",
+  "changelog": "Değişiklik Listesi (v0.82):\n1. Bazı içeriklerde posterin alınamaması sorununu çözüldü.\n2. Hiçbir veri alınamayan durumlar için düzetlme yapıldı.\n3. Sekme sayısı artıtıldı.\n4. Türkçe özel karakterler için düzeltme yapıldı. \n4. Varsayılan editör punaı sıfır yerine 45 olarak ayarlandı.\n5. Küçük düzeltmeler."
 }

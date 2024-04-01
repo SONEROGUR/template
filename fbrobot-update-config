@@ -1,5 +1,5 @@
 {
-  "version": 0.82,
-  "url": "u67WSi0LmvVVPv3j/CcIsjbwJfgztxUBO3ohRzfA/nHyzxfTH95k2b261oGcgVoFbfeUA39ueN69jhIu/EEMYuMP7zGv4HOPln0ANwAFZfbKvCnssulLX9g/Yr0TibhiEqcGLNP9iCqOyqit6BwxPNgQUABDJT5rHuPT/acilFTYB4p/Y0EI2pTZGNU/7Roc*og6UNk23HJcSRmub4dBUiQ==*5bh7jEaGTJeBIP2okFC/TQ==*4mt68xqNQAxxlxqyDUslEQ==",
-  "changelog": "Değişiklik Listesi (v0.82):\n1. Bazı içeriklerde posterin alınamaması sorununu çözüldü.\n2. Hiçbir veri alınamayan durumlar için düzetlme yapıldı.\n3. Sekme sayısı artırıldı.\n4. Türkçe özel karakterler için düzeltme yapıldı. \n5. Varsayılan editör puanı sıfır yerine 45 olarak ayarlandı.\n6. Küçük düzeltmeler."
+  "version": 0.83,
+  "url": "OGxDqYh9aF4X9KqGoCxxcvJy0zY2zkWd5GWrNHgTVweJTxZllD//lxkBCObmisd9TJ512EbhSmrGP38Xhw001S02ZBkbrZqt3b1xbUFiYJbUHBXYdd/xzctocUin4OsVok5ZgHzMlp2v4rVPDbWy5B/XFJJnd2bwW4TJOtAwC+D0LuWj/d8coVnaFVSn4Czm*efO3+Choirop/mbknkzDDQ==*R2IMFn8EaoZgR4sh74lK8g==*5MCC/qxoU7arPQKf6hJipw==",
+  "changelog": "Değişiklik Listesi (v0.83):\n1. Yeni eklenen sekmelerdeki hata giderildi.\n2. Uygulama içi güncelleme bildirimi özelliği eklendi."
 }

@@ -1,5 +1,5 @@
 {
-  "version": 0.83,
-  "url": "OGxDqYh9aF4X9KqGoCxxcvJy0zY2zkWd5GWrNHgTVweJTxZllD//lxkBCObmisd9TJ512EbhSmrGP38Xhw001S02ZBkbrZqt3b1xbUFiYJbUHBXYdd/xzctocUin4OsVok5ZgHzMlp2v4rVPDbWy5B/XFJJnd2bwW4TJOtAwC+D0LuWj/d8coVnaFVSn4Czm*efO3+Choirop/mbknkzDDQ==*R2IMFn8EaoZgR4sh74lK8g==*5MCC/qxoU7arPQKf6hJipw==",
-  "changelog": "Değişiklik Listesi (v0.83):\n1. Yeni eklenen sekmelerdeki hata giderildi.\n2. Uygulama içi güncelleme bildirimi özelliği eklendi."
+  "version": 0.84,
+  "url": "PkwxV/yrMoH5QJcpoWK6ADtnuXgeVaixQcKQBJSVish5k82l5rP+f+R5x9nRpHdXcJF3ZfBcGb681y/fktkNTCWISLDu3IdImh/yBgAx5YGO+K/Uzu8weim5FU2913wHSr0gawALCcD75czY438LQzTI43GYrRvgXBYjvrwpe103HQ5YHB8LylQ3xMdOz3QX*lGGnBONbAQENA8Dcx0X86w==*R8DWDsSyM2u7KX2c6qy38A==*eSLw2NGM5LMkAV/mjXKRpA==",
+  "changelog": "Değişiklik Listesi (v0.84):\n1. Diziler için Dolby Vision kontrolü kaldırıldı.\n2. Filmlerde Dolby Vision ibaresi otomatik olarak eklenir."
 }

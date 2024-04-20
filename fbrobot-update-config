@@ -1,5 +1,5 @@
 {
-  "version": 0.85,
-  "url": "1rLcF9MJYTrSJsp1MUF1Cl4JWrEPPAJiXDl96/As9Os5BRYgZQm/LsdO4rPMY3iohPLgLwdrvF+rcEZ0M/Zr32sU5ttt6sQOafizTyG9dqNs0PnqD0kg/uFwJ56V+E4ew8onC9winBX0zEQxXF3ihLacAmP1yX9Skq4fBy68vSqw8Ws8lYFiQ61ogddlwryx*Vu96LmEtwXY5W0d9JuzhFg==*XwPJXzkZ/BMDNLgItAb88Q==*qDmowFSXA7AruWi5CKoSfA==",
-  "changelog": "Değişiklik Listesi (v0.85):\n1. Hata düzeltmeleri ve iyileştirmeler."
+  "version": 0.90,
+  "url": "0ITRoJ+Im255IhTqCZCJ0PeB7FGHzg8QQDoPWYrNrWZ0owQEtLoN+aqV0v1rZ2wIUDONTV6rk4V0YFO1TL8KSl25FfYCg8JWyZHerdKmoTOKMWOyqFj8/wFVF1MzMWzMhbUXmDmUNfWD3tmKJgAq4Z6BLZ2nBSwvTaTD3CQTkTJ0SRmry1oghIEbXK2E4cck*rsZYF61g1QRUfgYQakhFCQ==*FZoPe6Z3Mfcy3V6ob6DIvg==*4BYetpf+QGLpX6ktSjDKhA==",
+  "changelog": "Değişiklik Listesi (v0.90):\n1. Otomatik sunum yapma entegrasyonu sağlandı.\nFilmbolMoviesV1.23.21.exe/FilmbolSeriesV1.11.81.exe veya üst sürümleri gereklidir. \n2. Hata düzeltmeleri ve iyileştirmeler."
 }

@@ -1,5 +1,5 @@
 {
-  "version": 0.91,
-  "url": "Lys5R6Ez9p3JC/l8efQzNQ5+oWKKxeWneUMqtYWJlvBt/ut5bKQ9V6HdnyuUgD/nNK4yAectluApqTimzQs3dsxfAs5CiNkMrTeTtaZHsBOMNxv6gzD2t8cKs2VC6njdpsdWj0yX+WbQ5sfr69EpPimOnyamuXGHMwnmFynSZidDeX05H46XYHIpHwhqO3wg*2t4aY/gPr2up0Zh1RVrkwg==*Gx49tcBUhUG4QVjfvUbqag==*Q1qLtWgQrUFWEX/G1Gmeqg==",
-  "changelog": "Değişiklik Listesi (v0.91):\n1. Bazı dizilerdeki TMDb API sorunları için düzeltme."
+  "version": 0.92,
+  "url": "FUZDZxxmSzsVrNxiTipWxX3lWSfoeV8htcX3PzUpWda7xsZaraLK56bDwocrNb7QOOchljRlXwy/AdEayOMXjW+t9z+32npA5yrdunzV3SPMoGdcDLSX2UcYJqBoxEKHek1Pkb3A9K4wdLM7M3Klyx75MJNOg8LnfK7o7+O4Q4Onqg9ko6HAQYmp8ehmZiLo*6CbCnSUUi6vUubRNdJBTHA==*NJ3echbKPWChIrWdcuMIYg==*m7sBXbW+eHTRSO5rA3Wd6Q==",
+  "changelog": "Değişiklik Listesi (v0.92):\n1. Bazı dizilerdeki TMDb API sorunları için düzeltme.\n2. Bazı dizilerde arkaplan görüntüsü alınamaması sorunu giderildi."
 }

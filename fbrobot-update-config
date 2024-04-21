@@ -1,5 +1,5 @@
 {
-  "version": 0.90,
-  "url": "0ITRoJ+Im255IhTqCZCJ0PeB7FGHzg8QQDoPWYrNrWZ0owQEtLoN+aqV0v1rZ2wIUDONTV6rk4V0YFO1TL8KSl25FfYCg8JWyZHerdKmoTOKMWOyqFj8/wFVF1MzMWzMhbUXmDmUNfWD3tmKJgAq4Z6BLZ2nBSwvTaTD3CQTkTJ0SRmry1oghIEbXK2E4cck*rsZYF61g1QRUfgYQakhFCQ==*FZoPe6Z3Mfcy3V6ob6DIvg==*4BYetpf+QGLpX6ktSjDKhA==",
-  "changelog": "Değişiklik Listesi (v0.90):\n1. Otomatik sunum yapma entegrasyonu sağlandı.\nFilmbolMoviesV1.23.21.exe/FilmbolSeriesV1.11.81.exe veya üst sürümleri gereklidir. \n2. Hata düzeltmeleri ve iyileştirmeler."
+  "version": 0.91,
+  "url": "Lys5R6Ez9p3JC/l8efQzNQ5+oWKKxeWneUMqtYWJlvBt/ut5bKQ9V6HdnyuUgD/nNK4yAectluApqTimzQs3dsxfAs5CiNkMrTeTtaZHsBOMNxv6gzD2t8cKs2VC6njdpsdWj0yX+WbQ5sfr69EpPimOnyamuXGHMwnmFynSZidDeX05H46XYHIpHwhqO3wg*2t4aY/gPr2up0Zh1RVrkwg==*Gx49tcBUhUG4QVjfvUbqag==*Q1qLtWgQrUFWEX/G1Gmeqg==",
+  "changelog": "Değişiklik Listesi (v0.91):\n1. Bazı dizilerdeki TMDb API sorunları için düzeltme."
 }

@@ -1,5 +1,5 @@
 {
-  "version": 0.95,
-  "url": "pT5wfD7ImgLM+qLPnfVNJtFb0yCDEY8pqnRv1RmfJPxSdkxuVgZqKN+ww0r9aqYj9DKDn6tMmitT9klettfe3hYMurNwcTgkXMH0xby9iNGifC8Zm2YqWzFkUG03Ga3caTiW0ALzeOHoP2jqzLqZ+Tm/JuHoI5Su4biVK0BIawLzdEtTScqM2tfy4V/xCKyL*nG0YR8ZlSH41L6ij692eNA==*sKvXqMCDAdWa433iDrv0WA==*VUiSYvkNC8QR3MapYncNpQ==",
-  "changelog": "1. Arayüz iyileştirmeleri yapıldı.\n2. Pencere öncelikleri düzenlendi."
+  "version": 0.96,
+  "url": "Lf+EQsScxwqS6kgxe9uLl1sUT2kLGFQUu4n4tEcnVc7qtP7wEk55q7fAAyPIvTcofQug8VLEmOEzKiFiBe/2KT9CZS4Me3PhhJBbfbvniCGPA6KpCjBkigCDZFhcPvjR8eKtRc70XR4v1NL9YLlAWpGS8tQxfnGtB8g+CFfKXj5purXoAEat7EYX9V0CcnIY*YmM5tyi+88WI8FxLnhbLMQ==*JTFEZX/4EDC/RnGSN0P/Ig==*IU8MkA2NeNZiDwQWJAImjA==",
+  "changelog": "1. Sağ tıklama ile değiştirilebilir: Kısaltma, Görsel Adı, Poster URL."
 }

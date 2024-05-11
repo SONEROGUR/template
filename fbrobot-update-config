@@ -1,5 +1,5 @@
 {
-  "version": 0.96,
-  "url": "Lf+EQsScxwqS6kgxe9uLl1sUT2kLGFQUu4n4tEcnVc7qtP7wEk55q7fAAyPIvTcofQug8VLEmOEzKiFiBe/2KT9CZS4Me3PhhJBbfbvniCGPA6KpCjBkigCDZFhcPvjR8eKtRc70XR4v1NL9YLlAWpGS8tQxfnGtB8g+CFfKXj5purXoAEat7EYX9V0CcnIY*YmM5tyi+88WI8FxLnhbLMQ==*JTFEZX/4EDC/RnGSN0P/Ig==*IU8MkA2NeNZiDwQWJAImjA==",
-  "changelog": "1. Sağ tıklama ile değiştirilebilir: Kısaltma, Görsel Adı, Poster URL."
+  "version": 1.0,
+  "url": "xVrCTKdOLc5KaoA1uFckFuKg9zDXYSf7MGzKrUt62MPbAObEqX1BWPW4okG7j19sosXpOBHN/TWrQdH303UNmYzGPLPHKu6iq416B5Y48bGINiQU9ZEfvCcTjuyeHEyS/naT8p4f0CIxu+pfdMFkZyCi6RsOg23Igc1R1uvYD3dCVrVVzyVrKT9bd338Y2rV*vaie1Nk9V2O8OJ/AA8va6Q==*Cp8MqY9h9BvcHDbftrfSmA==*Frds2vxnA+53ZB6RVk/Ing==",
+  "changelog": "1. Güle güle beta!\n2. Poster önceliği olarak TMDb API kullan.\n3. Geliştirmeler ve hata düzeltmeleri.'"
 }

@@ -1,7 +1,7 @@
 # @sonerogur04
 # t.me/belesingch
 
-version_name='5.1.2-30082024-arm'
+version_name='5.1.2-30082024-arm-lbafix'
 echo ' '
 echo '  Beleşing Kurulum Sihirbazı v'$version_name
 sleep 3
@@ -27,7 +27,7 @@ echo '  Gerekli dosyalar indiriliyor...'
 sleep 1
 yes 2>/dev/null| pkg update
 yes 2>/dev/null | pkg upgrade
-yes 2>/dev/null | pkg install libffi
+yes 2>/dev/null | pkg install libffi libandroid-support
 setup_main()
 {
 	curl $mainfile --output tmp

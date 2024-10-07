@@ -1,5 +1,5 @@
 {
-  "version": 1.3,
-  "url": "+k2CzrS0LpxNFHL+Q40XNzSxwnlK3G+tByRjT1LsU2zJBJnohBJFFXMr6/bBml7WUvSTf13U2MDdVSk/kXaEbnnkTlYF+KkcZPRMpU6u5pufutXvJ7GBblOP6MibGTEPhTxQiRrAb2WOxvb3/BnKv4rTNTPp6vC14U291Cm/le9HXpXTJolhXJKTUCCIQzay*1JJje5YhDFP1aFeG6KfhmQ==*yUJ4AhxuLENM5LzbneDEPw==*ENrBy3cCqYcRCCUrs1ywgQ==",
-  "changelog": "1. Diziler için isimlendirme eklentisi.\n2. Verileri Filmbol'dan Getir işlevinde veritabanı bağlantıları kullan.\n3. IMDb görsel eklentisi kaldırıldı.\n4. Geliştirmeler ve hata düzeltmeleri."
+  "version": 1.4,
+  "url": "5Fc8P4xUT3mTrmstxzkXQdmGLiCtpJ0JdbonPEEWUT+AZg14rjcd0sTebTRQD9qjYLd8cX1cFuQTwV+o+j5QWXauqmpNPCgsgIM8f9y2xcorL+AB7DcjNhnyr420K2IHn8tkkjA8tkFmWNdRVKTyrRSI8VosLZ+ecwZlwXaLmjYvoGObE+7zxo8F1uRouCK2*lBiqq6C3zW8fipAIXZj2ug==*Wh9F4QMLxQe1p7dYK5D9mg==*McgIVcIJojF5AJsF7UE+sQ==",
+  "changelog": "1. İsimlendirme eklentisi için geliştirmeler.  (Clawing'e BAN!)"
 }

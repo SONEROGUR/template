@@ -1,5 +1,5 @@
 {
-  "version": 0.5,
-  "url": "27Wb048OfG4NOhcKcXN4hlp20q6CngHrCakokkttmrYRlkfJAHt71jtPf97ub/SvXbCIIcePtmIrKCUk8tQjSh4lW9Pkr/BnM47zx70XGz3P86k4dgSD7b0Urym2Aplw/K9aKTD8TbLnLKcVmIh/bYSfF9BsGUuk2fq/rkUzu3HtGYLTcMIH6jVlugFfAS3u*mKSdtrmrAoNK64zm3RETgA==*Pap9YoWPVCiXNUscJbxeeA==*dl67cgvDhnyAC5cQ9eocMw==",
+  "version": 0.6,
+  "url": "mx98YoCz+akuwMHxwcD63ccL3cJRs8/g6nUnWnze0p3hCS6toKhDX+i5R6YQKGIe6aRBfjk6K03s25uVVQY7dCQrxTbk8hVjPdImcmbu3ustyJ5rTFBYXH058xcIIugO0W4D6Enj8Abn1JE0RNYEj+GEQ4bnWcpCqmf+nMlXsJv9tdOf6h9Kc5in0S2PYfWT*C4Sg2CmGCmsGapJ5ZUvpEA==*5ds9C75cC9OBS83aoZfpSw==*beM89Bp/iJ5keuXPL4WZfg==",
   "changelog": "1. Veri katmanı olarak SQL'e geçiş yapıldı.\n2. Arayüz yenilendi.\n3. İşlevlerdeki hatalar giderildi.\n4. Kararlılık ve performans iyileştirmeleri."
 }

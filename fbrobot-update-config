@@ -1,5 +1,5 @@
 {
-  "version": 1.91,
-  "url": "nbL811We3lQjlyuI/fDovxhyU7mvf70vJ/LHLzGWDo7YmwNA+OqRLbmIaCB7vHRMqbfsnF4WjpEkBQO5ye4uVfQCwyP2vbmZgiYOZ21kCt5ZJESmlYGCagSwyof79sY6w/oMSABrCUpZJipOL8SR17BfUhBj6YQrh56vJGdWUiNPqZKZujjgctvDvByp3rQM*QEYZdCCn9ZxY54jTTatG1Q==*7Y31fH8ua6z9vBHsQ7d1qQ==*gaSdafERpfNgwYcLn6EkYw==",
-  "changelog": "1. Dizici tayfanın dertleri çözüldü."
+  "version": 2.2,
+  "url": "LuISaQOnG8iJGF6EnJKwS9f5H5O+vmt4GJ0iTzs62B5ZS8a6qC2G6DnuWOy4p4r3aUBAuXPAuUfacpC8YskJLl7mAJHrAYSmOxVYPbZJEiIRHwAUsoGcMRMz2bSDMPthKTJpK2noFrnBqzJirax0xKldkpsOdA4EvURW6d/hSPAK/xq6bfwMJoI8KuAzhSv9*/NPZhGEBwRPy1DNmJB0huQ==*58wMdvU9MRsBtTlf7K5Urg==*B4gKsCb+UvwB/nJ9VJfx2Q==",
+  "changelog": "1. JSON'dan SQL veri yapısına geçiş.\n2. MovieMaker ve SeriesMaker ile hızlıca içerik hazırlama.\n3. FTP entegrasyonu.\n4. Arayüz ve performans geliştirmeleri."
 }

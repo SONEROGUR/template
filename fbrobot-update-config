@@ -1,5 +1,5 @@
 {
-  "version": 2.9,
-  "url": "1xonEIJG5x8+O0bvknPtd7IhpKsCzhtDomCrDf2VUcG+sw+AXRTqY1kXUU8XWkWqW1HhZuK1xIq6NxnLzHcHlDngJ73v0ToqXpwOewMNzPaaeeeoyNmlkUf4JF4OPhtJzCvg4xO8927FuYpZ+LuYRnOvAlCz+jAqQHrwg5fbntJaRJuv5J6jpXVLm5nG9qtG*ZxqgO4/huzSen5oVHjdKGw==*rw0ceHvCp5hpJEnROKGtlg==*X6D99CDTAciUB1hYZlZh3g==",
+  "version": 3.0,
+  "url": "LgzDTJeHjwEpt/KjGjP3WjizXyRo+VmiyVh9mmO+wXIyfJQiRvpVMdkTwJuqmY4CtUVgYiaKg/ZRb/IraFPnI5qDvSTuLdUjAMAv9/wZm4iJkJyINIVT03TA5X+vnrsC8o302hqO93lOKk3WyN0iLIbsR/UlCUYAw2NbYh9UXb9VoBOAFyArsxPoh/TEXLMn*38GL3GWTw2UBijxV18VIYQ==*M4ke6crBMqAyfPJot0RHSQ==*PbPCCZNodgPDf9YNQiNnRQ==",
   "changelog": "1. JSON'dan SQL veri yapısına geçiş.\n2. MovieMaker ve SeriesMaker ile hızlıca içerik hazırlama.\n3. FTP entegrasyonu.\n4. Arayüz ve performans geliştirmeleri."
 }

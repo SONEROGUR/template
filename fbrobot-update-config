@@ -1,5 +1,5 @@
 {
-  "version": 3.0,
-  "url": "LgzDTJeHjwEpt/KjGjP3WjizXyRo+VmiyVh9mmO+wXIyfJQiRvpVMdkTwJuqmY4CtUVgYiaKg/ZRb/IraFPnI5qDvSTuLdUjAMAv9/wZm4iJkJyINIVT03TA5X+vnrsC8o302hqO93lOKk3WyN0iLIbsR/UlCUYAw2NbYh9UXb9VoBOAFyArsxPoh/TEXLMn*38GL3GWTw2UBijxV18VIYQ==*M4ke6crBMqAyfPJot0RHSQ==*PbPCCZNodgPDf9YNQiNnRQ==",
-  "changelog": "1. JSON'dan SQL veri yapısına geçiş.\n2. MovieMaker ve SeriesMaker ile hızlıca içerik hazırlama.\n3. FTP entegrasyonu.\n4. Arayüz ve performans geliştirmeleri."
+  "version": 3.01,
+  "url": "Aj1DBGObmMhXeLnppTUczzoNzaHBrpzGpxrvveJEXV5Ur/yUt5+UTyWxoJtXI9solW2v0eONRbSzwrNY81w1wTbgGHmlQcMoHeppU+Ul25eegMcZpRqzivKDGd5hhKRL8dOl520dstmdZ0fk2PleHxDR8S1QR1vdhW02VQEJjeEloAEqzIN9H01/yVBxPfHs*5wL9mr4Oee5MSkFOTK3FaA==*ggQT1L7bjwTRiF0UNWpiFg==*VGuHDMkakalthHUtRoychA==",
+  "changelog": "1. SerieMaker hata düzeltmesi."
 }

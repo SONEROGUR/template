@@ -1,5 +1,5 @@
 {
-  "version": 3.01,
-  "url": "Aj1DBGObmMhXeLnppTUczzoNzaHBrpzGpxrvveJEXV5Ur/yUt5+UTyWxoJtXI9solW2v0eONRbSzwrNY81w1wTbgGHmlQcMoHeppU+Ul25eegMcZpRqzivKDGd5hhKRL8dOl520dstmdZ0fk2PleHxDR8S1QR1vdhW02VQEJjeEloAEqzIN9H01/yVBxPfHs*5wL9mr4Oee5MSkFOTK3FaA==*ggQT1L7bjwTRiF0UNWpiFg==*VGuHDMkakalthHUtRoychA==",
-  "changelog": "1. SerieMaker hata düzeltmesi."
+  "version": 3.02,
+  "url": "JzR6EaOGiQMSRQ0moX0Rc0M2a1uh2f+8cL+Xab3CeRL6/RICEuFSHUX5ruEfFZZC+DYjt4b47ENcy1HKB4EOnRMMcHv7wYf7u/Kjw2gu1soa3XmHFFPTQWXDegXP3ubxUnl2U9cQGNcvq+/H4r5ApI6p9LqASQKX4UFWxx09ANWCaixRQ1ICN4jJfEA9UqtK*uEn8OqSI/F5yuKWpnElFUw==*X4FIVNIBv9tNRhpQg4bYjA==*G9XaiE6dI1EDJoF23UDN0A==",
+  "changelog": "1. SerieMaker track_order fix.\n2. Görsel kaydetme işlevinde multithreading."
 }

@@ -1,5 +1,5 @@
 {
-  "version": 3.02,
-  "url": "JzR6EaOGiQMSRQ0moX0Rc0M2a1uh2f+8cL+Xab3CeRL6/RICEuFSHUX5ruEfFZZC+DYjt4b47ENcy1HKB4EOnRMMcHv7wYf7u/Kjw2gu1soa3XmHFFPTQWXDegXP3ubxUnl2U9cQGNcvq+/H4r5ApI6p9LqASQKX4UFWxx09ANWCaixRQ1ICN4jJfEA9UqtK*uEn8OqSI/F5yuKWpnElFUw==*X4FIVNIBv9tNRhpQg4bYjA==*G9XaiE6dI1EDJoF23UDN0A==",
-  "changelog": "1. SerieMaker track_order fix.\n2. Görsel kaydetme işlevinde multithreading."
+  "version": 3.03,
+  "url": "q95TsJWM5X/JL3mPySQNKxMuoYT4giQuatLsxQ4Z1SwT5kh4tCQd8MPRVGu0WjD4+zm3aFyFNV6n4Z/v/YjoezrdetXnN4oJNCiTpiiBDDWYbZtqwzSEobvr/xanwCT9LxNAqOz/jJOnEI4liwh0RLqzEj+G16BadruPJrTe7PFf7NtdpjaH9xfsMiDHYmO1*iemHxa1rboNUQvLCH4mDZQ==*lCVooqGC3bSX0bADrO7NrQ==*GLZDBLdb6ugdfO7CM99Log==",
+  "changelog": "1. SerieMaker Dolby Vision/HDR fix."
 }

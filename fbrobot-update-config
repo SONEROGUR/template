@@ -1,5 +1,5 @@
 {
   "version": 3.05,
   "url": "8UXKskbpb6lmBMw31GQ3xVhBhFLvZNMutES+CGXmdjz9jvwXf0WArw84ppQ5+EULjnBNYzIQb6mDK97rv8PPFg1GvaQgLd/WXyD9J9v5spArv2ildTxb+aBGToIMVh4DUNY3VoHg9rMz0NFunAgxw6amJL4iKNUaCdnivDeloPbPI1HgfHDVXnQWCIKXVmp5*BC7XVTlng+vKS46iir0DQg==*EMKNNNeIT46v88PYetKuSw==*G5A/48SspkuhBgbpFhaa2A==",
-  "changelog": "1. Otomatik görsel yükleme.\n2. Görsellerde diske yazma işlevi kaldırıldı.\n3. thread ve log sorunları çözüldü.\4. Bazı pencere öncelikleri düzenlendi.\n5. Performans ve kararlılık iyileştirmeleri."
+  "changelog": "1. Otomatik görsel yükleme.\n2. Görsellerde diske yazma işlevi kaldırıldı.\n3. thread ve log sorunları çözüldü.\n4. Bazı pencere öncelikleri düzenlendi.\n5. Performans ve kararlılık iyileştirmeleri."
 }

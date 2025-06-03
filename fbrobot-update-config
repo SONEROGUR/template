@@ -1,5 +1,5 @@
 {
-  "version": 3.05,
-  "url": "8UXKskbpb6lmBMw31GQ3xVhBhFLvZNMutES+CGXmdjz9jvwXf0WArw84ppQ5+EULjnBNYzIQb6mDK97rv8PPFg1GvaQgLd/WXyD9J9v5spArv2ildTxb+aBGToIMVh4DUNY3VoHg9rMz0NFunAgxw6amJL4iKNUaCdnivDeloPbPI1HgfHDVXnQWCIKXVmp5*BC7XVTlng+vKS46iir0DQg==*EMKNNNeIT46v88PYetKuSw==*G5A/48SspkuhBgbpFhaa2A==",
-  "changelog": "1. Otomatik görsel yükleme.\n2. Görsellerde diske yazma işlevi kaldırıldı.\n3. thread ve log sorunları çözüldü.\n4. Bazı pencere öncelikleri düzenlendi.\n5. Performans ve kararlılık iyileştirmeleri."
+  "version": 3.06,
+  "url": "NXpcHA4chA6DBfYEVGJbc4XJpDxZPvOFTBD9+4LMwta3psUmoevvcFTXcW+fqaE7Q2fkljbpBZnZwnl2gF7u+Q6DfmkdyIxBCp7OB4RoZAm8p9WJuXU/Qw1EO8svvO77I6784dqgLeD5Qr1rTp5uYxcffw690prd0SlDnh1WJS/+3Lq1R4Q7NAdBT2Y3JYBJ*EqW31+uS7/421DTUnZx8eQ==*Fj3OBIcNhPjI4qj8ngvkRg==*kyP0rK1UucMsVo/v+B67+g==",
+  "changelog": "1. Zorunlu güncelleme."
 }

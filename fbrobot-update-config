@@ -1,5 +1,5 @@
 {
-  "version": 3.06,
-  "url": "NXpcHA4chA6DBfYEVGJbc4XJpDxZPvOFTBD9+4LMwta3psUmoevvcFTXcW+fqaE7Q2fkljbpBZnZwnl2gF7u+Q6DfmkdyIxBCp7OB4RoZAm8p9WJuXU/Qw1EO8svvO77I6784dqgLeD5Qr1rTp5uYxcffw690prd0SlDnh1WJS/+3Lq1R4Q7NAdBT2Y3JYBJ*EqW31+uS7/421DTUnZx8eQ==*Fj3OBIcNhPjI4qj8ngvkRg==*kyP0rK1UucMsVo/v+B67+g==",
-  "changelog": "1. Zorunlu güncelleme."
+  "version": 3.07,
+  "url": "NsVOQMVe688mJDAFqClnfGjFMcLAWYu6lFbGMn85EWV3xEdxMB8MElHvbKeE5Ctmn3YTOCULZjXgTHHi3i0bBJQtOxyKxv9pv/cdXdKaR2zagElalvgSxsQ7iVOMHJTbPxAJpR6faa6EfcEVqhdeY8mhchQ8DeVflS/Ozi7QuXsgnIA/8dOpZvcCkO6ph1eF*nzP/r1dSef6kUSnwVi3Igw==*FJvzjLZL5rhi8i4101vmyg==*FWc1NLj5EnJ/CuDhkSzuHw==",
+  "changelog": "1. Sunucu değişimlerine karşı varsayılan seçimlerin sıfırlanabilmesi sağlandı.\n2. Dizilerde birden fazla sezon tek tıkla yüklenebilir.\n3. Görsel yüklemesinin başarılı olduğu bilgi ağacında vurgulanır."
 }

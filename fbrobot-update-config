@@ -1,5 +1,5 @@
 {
-  "version": 3.07,
-  "url": "NsVOQMVe688mJDAFqClnfGjFMcLAWYu6lFbGMn85EWV3xEdxMB8MElHvbKeE5Ctmn3YTOCULZjXgTHHi3i0bBJQtOxyKxv9pv/cdXdKaR2zagElalvgSxsQ7iVOMHJTbPxAJpR6faa6EfcEVqhdeY8mhchQ8DeVflS/Ozi7QuXsgnIA/8dOpZvcCkO6ph1eF*nzP/r1dSef6kUSnwVi3Igw==*FJvzjLZL5rhi8i4101vmyg==*FWc1NLj5EnJ/CuDhkSzuHw==",
-  "changelog": "1. Sunucu değişimlerine karşı varsayılan seçimlerin sıfırlanabilmesi sağlandı.\n2. Dizilerde birden fazla sezon tek tıkla yüklenebilir.\n3. Görsel yüklemesinin başarılı olduğu bilgi ağacında vurgulanır."
+  "version": 3.08,
+  "url": "V20EXCNUq4EnKE1YTVEYeW+BOT0zmWqUEhjBCt4vqoNY5dqtRTvwTa6OhOUo+TfqoAW38WHFnxAmQZs/S3+oINPLmowGbBLZIugNIQO45DqOi1RfjZ/871g2fDstXh8LxXBWNGpnxkmKNJ/WXDrcOBlidUHoS4TRiyaUe+rDQyokNf0+K/6fMHyZZE394t8H*nvMalGD8An2CZqIHxRqO8Q==*BysMaYCR2D/ijTiACS3+nQ==*nA6tvryDW51Ed9vr5iJYCA==",
+  "changelog": "1. Diziler için FTP thread kontrolü geliştirildi."
 }

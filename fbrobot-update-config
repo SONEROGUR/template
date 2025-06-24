@@ -1,5 +1,5 @@
 {
-  "version": 3.08,
-  "url": "V20EXCNUq4EnKE1YTVEYeW+BOT0zmWqUEhjBCt4vqoNY5dqtRTvwTa6OhOUo+TfqoAW38WHFnxAmQZs/S3+oINPLmowGbBLZIugNIQO45DqOi1RfjZ/871g2fDstXh8LxXBWNGpnxkmKNJ/WXDrcOBlidUHoS4TRiyaUe+rDQyokNf0+K/6fMHyZZE394t8H*nvMalGD8An2CZqIHxRqO8Q==*BysMaYCR2D/ijTiACS3+nQ==*nA6tvryDW51Ed9vr5iJYCA==",
-  "changelog": "1. Diziler için FTP thread kontrolü geliştirildi."
+  "version": 3.09,
+  "url": "Z3v62dIqUzj9SedZxGQ4aEjAX3R6BiTVhVDFUGsMcm7KS2YPwLNdL4wRdz7HAI+StT9wmyvN19EK+04K1NLs5IvpEYpVlob9PgBm9UVQDcbb86CqTFp8LTW7T00pZ47yQcJDwnBTomFZJXKlDa2aYtcYpDKlvpPYSJdKhgq0fju0PPM8wxSgTclrIK/WRlKV*NrqHcTihyz02VOlTV3PqtQ==*O29VErz7rMqt+FU11ieyhA==*2yNXW4rRuTzIoZ2g/Ng45g==",
+  "changelog": "1. Diziler için FTP thread kontrolü bir kez daha geliştirildi.\n2. ass altyazı desteği."
 }

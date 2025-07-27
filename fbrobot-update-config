@@ -1,5 +1,5 @@
 {
-  "version": 3.11,
-  "url": "MVChzVBW30PgmLvThRAPwDYIPppeX4U9AzfKiQ3+4/Pn0BFitHbIPozzy/nfAWgpT7EHAnS5y2bSGcfrDVkeQlaGqmk22Xu8gLnmRaF19uYDGqLpkleEjEqSv97rXRi+MDe95g1SrUngFELTfn3NvypBvWfktQkqg4eYNu5TJuDlr9bPAfGwJZxx1uLYV880*bwpn5ZyUwDYMTirzh/hGBA==*/ZNDzsCnpx+gwxt8xebdDg==*KCvNWex+2ZWeeYCcX2YDOA==",
-  "changelog": "1. Arkaplanda bir şeyler değişti işte ama hatırlamıyorum."
+  "version": 3.12,
+  "url": "8xbJwu4h3nekWg4fkRv63XhRY2qPgHxhBZeH5YqSF7r6ycn3GJa9zq7gpOY4CHo1ZPniI5DmS+xVwEUHNc0uXlMz/lhc67mesPdAxSfeR8GsoobMsI7kyOWQ473SqlDjUptoRUJVDlwKwwXGWCVLfrhetYIrLMp/mRrogn3UwxPeQT7rpEmzmqRCNVc+2HMF*OeaCQdy1iTcxOYFO6Aw36Q==*T+HbDsrhZDKBv1dZE8j2SA==*cpPj8R1uBQ3JMqW5kG7Rjw==",
+  "changelog": "1. Ayarlara chapter dahil etme seçeneği eklendi.\n2. Tooltip entegre.\n3. İşlem yapılırken SerieMaker penceresinin kilitlenmesi sorunu giderildi."
 }

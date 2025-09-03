@@ -1,5 +1,5 @@
 {
-  "version": 3.13,
-  "url": "qrzK9q3QjWNlgU0/ZdnJLg5qaLm6sRO2N+766g3CxM4OUZBVU2HvMQfq/DROHbLmciZMaxHINiU3f9K03OpC6BICJ7VL3XMXdxu5C9e/e+BzBjJzSQ/eNGKu223gxLyXQlqrPeeTrESKWn+38CAuCkpX2R0sNbnoOimNXg2gSaV1NM8JEY6xFB6N+zu8kQpF*wEiwcnsiGI1C3IXfBx/L6w==*yxuMN9TOoeAjAGm8rsGaBg==*lqINFNRmajDgvD+1F3bOEg==",
-  "changelog": "1. Bug fix."
+  "version": 3.15,
+  "url": "LGbBHyvu2mCpAozBXpaHh1Z4ji5UUPItbYfNlfdH/DFjBK93lyzgz2TOIShvE+6LYNIOiSRcsEnHX1SmyULPadorhvQHlMX+VzcLhkA1OhTTW2CZGGVR9u17b6/501Ovnm778YzmB4WU4B+UdNKuBRnDSGd5q0HV8xQ1t0d7i5IYJhDWWk5UKaTWWEQz0WgN*iSmG9A/iCLKhEr52z+rWIg==*54aQTcN/1sYBCkLceeSo+Q==*qtLBO/qxT7qdVeRkZ+dzcA==",
+  "changelog": "1. mkv_proc_limit fix.\n2. ui bug fix.\n3. auto-inject movies.\n4. pre-check wp pics.\n4. auto-clean movies.\n5. General bug fixes and ui imp."
 }
